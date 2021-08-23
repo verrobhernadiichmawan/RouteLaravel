@@ -7,7 +7,7 @@
         <div class="shadow-lg p-5 mt-5 bg-body rounded text-center"><h4>Halaman Galeri</h1></div>
             <div class="row row-cols-1 row-cols-md-3 g-4 mt-4">
                 <div class="col">
-                  <div class="card h-90 shadow-lg p-3 mt-3 rounded border-warning">
+                  <div class="card h-90 shadow-lg p-3 mt-3 rounded border-primary">
                     <img src={{ asset('image/profil2.jpg')}} class="card-img-top" alt="...">
                     <div class="card-footer bg-dark text-warning ">
                       <small class="text">Last updated 3 mins ago</small>
